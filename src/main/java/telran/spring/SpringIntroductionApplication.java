@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @SpringBootApplication
 public class SpringIntroductionApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {		
 		SpringApplication.run(SpringIntroductionApplication.class, args);
 	}
 
