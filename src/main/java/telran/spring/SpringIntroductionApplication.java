@@ -11,7 +11,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class SpringIntroductionApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(SpringIntroductionApplication.class, args);
 	}
 
