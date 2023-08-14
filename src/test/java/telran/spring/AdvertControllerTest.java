@@ -32,7 +32,7 @@ class AdvertControllerTest {
 	@Autowired
 	ObjectMapper mapper;
 	
-	Advert advert;
+	Advert advert;	
 	String advertsUrl = "http://localhost:8080/adverts";
 	String categoryUrl = String.format("%s/category/test", advertsUrl);
 	String priceUrl = String.format("%s/price?maxPrice=200", advertsUrl);
